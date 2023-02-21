@@ -1,5 +1,3 @@
-package PROG24187;
-
 import java.util.Random;
 import javafx.application.Application;
 import javafx.geometry.*;
